@@ -1,0 +1,6 @@
+{
+  "name": "Audit Mapping & Program Studio",
+  "description": "Comprehensive IT audit mapper and compliance program generator aligned with NIST CSF, ISO 27001, COBIT, CIS, SWIFT, PCI DSS, BNM RMiT, and MAS TRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
